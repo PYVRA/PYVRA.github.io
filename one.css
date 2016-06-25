@@ -3,9 +3,11 @@ body{
     margin: 0;
 }
 .header {
+    margin-top: auto;
     height: 200px;
     width: 100%;
     background-color: azure;
+    position: absolute;
 }
 .sidebar {
     height: calc(80vh - 1px);
@@ -29,4 +31,7 @@ h2 {
 }
 .dropdown-menu{
    color: aqua;
+}
+.sizemale {
+    font-size: 50px;
 }
