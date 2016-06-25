@@ -27,3 +27,6 @@ h2 {
     top: calc(50% - 18px);
     text-align: center;
 }
+.dropdown-menu{
+   color: aqua;
+}
