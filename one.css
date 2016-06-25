@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+    margin: 0;
+}
+.header {
+    height: 200px;
+    width: 100%;
+    background-color: azure;
+}
+.sidebar {
+    height: calc(80vh - 1px);
+    width: 20%;
+    background-color: cadetblue;
+    float: left;
+}
+.content {
+    float: right;
+    height: calc(80vh - 1px);
+    width: 80%;
+    background-color: beige;
+
+}
