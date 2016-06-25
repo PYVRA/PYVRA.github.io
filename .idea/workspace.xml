@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="one.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="one.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/one.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="2" selection-start-column="6" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="212" selection-start-line="6" selection-start-column="212" selection-end-line="6" selection-end-column="212" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="one.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="one.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/one.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state relative-caret-position="218">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/1.html" />
-        <option value="$PROJECT_DIR$/one.html" />
         <option value="$PROJECT_DIR$/one.css" />
+        <option value="$PROJECT_DIR$/one.html" />
       </list>
     </option>
   </component>
@@ -132,12 +132,12 @@
       <option name="presentableId" value="Default" />
       <updated>1466860951355</updated>
       <workItem from="1466860955221" duration="4442000" />
-      <workItem from="1466867288821" duration="15000" />
+      <workItem from="1466867288821" duration="1714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4457000" />
+    <option name="totallyTimeSpent" value="6156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="23" width="1346" height="688" extended-state="0" />
@@ -187,18 +187,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.html" />
     <entry file="file://$PROJECT_DIR$/1.css" />
-    <entry file="file://$PROJECT_DIR$/one.html">
+    <entry file="file://$PROJECT_DIR$/one.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="2" selection-start-column="6" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="218">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.css">
+    <entry file="file://$PROJECT_DIR$/one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="212" selection-start-line="6" selection-start-column="212" selection-end-line="6" selection-end-column="212" />
           <folding />
         </state>
       </provider>
